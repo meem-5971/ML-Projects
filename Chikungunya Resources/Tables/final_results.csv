@@ -1,0 +1,8 @@
+Metric,Value
+Macro F1,0.73
+No Arthritis F1,0.78
+Arthritis F1,0.67
+Accuracy,0.74
+AUC,0.7609224447383337
+CV Mean F1,0.72
+CV Std F1,0.03
